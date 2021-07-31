@@ -21,7 +21,9 @@ namespace Exercise01
             } else{
                 Console.Write($"{Environment.NewLine}{expression1} matches {input1}.? False");
                 Console.Write($"{Environment.NewLine}Press Esc to end or any key to try again.");
-              
+                if (Console.ReadKey(true).Key != ConsoleKey.Escape){
+                  displayUI();
+                }else{}
             }
             Console.ReadKey(true);
 
