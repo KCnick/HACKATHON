@@ -13,7 +13,13 @@ namespace Exercise01
 
         static void displayUI(){
             Console.WriteLine("Enter a regular expression (or press Enter to use the default): ^[a-z]+$");
-            var expression1 = Console.ReadLine();
+            
+            string expression1="^[a-z]+$";
+            if(Console.ReadKey(true).Key != ConsoleKey.Enter){
+                expression1 = "^[a-z]+$";
+            }else{
+                expression1 = Console.ReadLine();
+            }  
             Console.WriteLine("Enter some input: ");
             var input1 = Console.ReadLine();
             if(expression1 == input1){
@@ -23,7 +29,7 @@ namespace Exercise01
                 Console.Write($"{Environment.NewLine}Press Esc to end or any key to try again.");
                 if (Console.ReadKey(true).Key != ConsoleKey.Escape){
                   displayUI();
-                }else{}
+                }
             }
             Console.ReadKey(true);
 
