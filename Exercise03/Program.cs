@@ -1,4 +1,5 @@
 ﻿using System;
+using Exercise02;
 
 namespace Exercise03
 {
@@ -9,7 +10,7 @@ namespace Exercise03
             string isNegative = "";
             try
             {
-                Console.WriteLine("Enter a Number to convert to currency");
+                Console.WriteLine("Enter a Number to convert words");
                 string number = Console.ReadLine();
                 number = Convert.ToDouble(number).ToString();
 

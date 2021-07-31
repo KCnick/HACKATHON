@@ -4,7 +4,7 @@ namespace Exercise02
 {
     public class Class1
     {
-        public string Towards(String Number)
+        public static string Towards( this int Number)
         {
             string word = "";
             try
