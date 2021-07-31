@@ -1,0 +1,12 @@
+/home/nick/workspaces/hackathon/Exercise02/Exercise02/bin/Debug/net5.0/Exercise02.deps.json
+/home/nick/workspaces/hackathon/Exercise02/Exercise02/bin/Debug/net5.0/Exercise02.dll
+/home/nick/workspaces/hackathon/Exercise02/Exercise02/bin/Debug/net5.0/ref/Exercise02.dll
+/home/nick/workspaces/hackathon/Exercise02/Exercise02/bin/Debug/net5.0/Exercise02.pdb
+/home/nick/workspaces/hackathon/Exercise02/Exercise02/obj/Debug/net5.0/Exercise02.csproj.AssemblyReference.cache
+/home/nick/workspaces/hackathon/Exercise02/Exercise02/obj/Debug/net5.0/Exercise02.GeneratedMSBuildEditorConfig.editorconfig
+/home/nick/workspaces/hackathon/Exercise02/Exercise02/obj/Debug/net5.0/Exercise02.AssemblyInfoInputs.cache
+/home/nick/workspaces/hackathon/Exercise02/Exercise02/obj/Debug/net5.0/Exercise02.AssemblyInfo.cs
+/home/nick/workspaces/hackathon/Exercise02/Exercise02/obj/Debug/net5.0/Exercise02.csproj.CoreCompileInputs.cache
+/home/nick/workspaces/hackathon/Exercise02/Exercise02/obj/Debug/net5.0/Exercise02.dll
+/home/nick/workspaces/hackathon/Exercise02/Exercise02/obj/Debug/net5.0/ref/Exercise02.dll
+/home/nick/workspaces/hackathon/Exercise02/Exercise02/obj/Debug/net5.0/Exercise02.pdb

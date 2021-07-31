@@ -1,0 +1,5 @@
+/home/nick/workspaces/hackathon/Exercise03/obj/Debug/net5.0/Exercise03.csproj.AssemblyReference.cache
+/home/nick/workspaces/hackathon/Exercise03/obj/Debug/net5.0/Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+/home/nick/workspaces/hackathon/Exercise03/obj/Debug/net5.0/Exercise03.AssemblyInfoInputs.cache
+/home/nick/workspaces/hackathon/Exercise03/obj/Debug/net5.0/Exercise03.AssemblyInfo.cs
+/home/nick/workspaces/hackathon/Exercise03/obj/Debug/net5.0/Exercise03.csproj.CoreCompileInputs.cache
